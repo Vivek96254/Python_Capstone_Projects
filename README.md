@@ -4,3 +4,5 @@ A collection of small projects made in python
   - This project calculates the BMI of a child based on their diet and age.
 2. Quiz Game
   - This project has a GUI using tkinter, it is a quiz game that asks questions and upon selecting correct answers gives you points 
+3. GUI Calculator
+  - This project takes two numbers from user and performs operation on them, it has a GUI using tkinter
