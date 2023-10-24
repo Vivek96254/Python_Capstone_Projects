@@ -6,3 +6,5 @@ A collection of small projects made in python
   - This project has a GUI using tkinter, it is a quiz game that asks questions and upon selecting correct answers gives you points 
 3. GUI Calculator
   - This project takes two numbers from user and performs operation on them, it has a GUI using tkinter
+4. Binary Search algorithm
+  - This project is an implementation of the Binary Search algorithm that searches for an item in a list using binary search.
