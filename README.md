@@ -8,3 +8,5 @@ A collection of small projects made in python
   - This project takes two numbers from user and performs operation on them, it has a GUI using tkinter
 4. Binary Search algorithm
   - This project is an implementation of the Binary Search algorithm that searches for an item in a list using binary search.
+5. Tic Tac Toe
+  - This project allows two players to play the classic tic tac toe game, it was made using pygame.
