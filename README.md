@@ -11,3 +11,4 @@ A collection of small projects made in python
 5. Tic Tac Toe
   - This project allows two players to play the classic tic tac toe game, it was made using pygame.
 6. Uber Case Study
+  - A case study on Uber and its sales and other data(Dataset from kaggle)
