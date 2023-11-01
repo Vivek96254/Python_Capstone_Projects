@@ -10,3 +10,4 @@ A collection of small projects made in python
   - This project is an implementation of the Binary Search algorithm that searches for an item in a list using binary search.
 5. Tic Tac Toe
   - This project allows two players to play the classic tic tac toe game, it was made using pygame.
+6. Uber Case Study
